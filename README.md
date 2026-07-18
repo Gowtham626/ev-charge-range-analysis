@@ -63,7 +63,7 @@ ev-charge-range-analysis/
    pip install flask
    python app.py
    ```
-6. Open `http://localhost:5000` in your browser
+6. Open `http://127.0.0.1:5000` in your browser
 
 ## Author
 Gowtham Reddy T.
